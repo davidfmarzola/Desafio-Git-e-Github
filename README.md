@@ -1,4 +1,7 @@
-#Livro de receitas
+# GitHub
 
-Olá!Bem vindo ao meu livro de receitas
- - Strogonoff de frango
+ - git init 
+ - git add.
+ - git status
+ - git commit -m ""
+ - git remote add origin URL
