@@ -1,2 +1,2 @@
-# livro-receitas
-Meu livro de receitas
+# Comandos usados
+- git init
