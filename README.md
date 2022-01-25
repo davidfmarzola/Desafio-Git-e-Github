@@ -6,3 +6,4 @@
  - git remote add origin URL
  - git push origin master
  - git pull origin master
+ - git log
